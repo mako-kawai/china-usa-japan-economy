@@ -4,7 +4,11 @@
 
 ## 👤 作者
 
-GitHub：https://github.com/mako-kawai
+**GitHub用户名**：mako-kawai
+
+访问作者主页：https://github.com/mako-kawai
+
+> 💡 小提示：从网址 `mako-kawai.github.io/china-usa-japan-economy/` 可以看出，作者的GitHub用户名是 **mako-kawai**，将 `.github.io/china-usa-japan-economy` 替换为空即可访问作者主页。
 
 ## 🌐 在线访问
 
