@@ -2,6 +2,10 @@
 
 一个交互式仪表板，展示中国、美国、日本三国1960-2024年的宏观经济数据对比分析。
 
+## 👤 作者
+
+GitHub：https://github.com/mako-kawai
+
 ## 🌐 在线访问
 
 **仪表板地址**：https://mako-kawai.github.io/china-usa-japan-economy/
