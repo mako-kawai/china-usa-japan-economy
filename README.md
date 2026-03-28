@@ -18,7 +18,11 @@
 
 本项目已部署至 GitHub Pages，可通过以下地址访问：
 
-**https://mako-kawai.github.io/china-usa-japan-economy/**
+**在线访问**：https://mako-kawai.github.io/china-usa-japan-economy/
+
+或者直接打开：https://mako-kawai.github.io/china-usa-japan-economy/index.html
+
+GitHub仓库：https://github.com/mako-kawai/china-usa-japan-economy
 
 ## 📁 项目文件
 
