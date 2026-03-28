@@ -2,6 +2,23 @@
 
 一个交互式仪表板，展示中国、美国、日本三国1960-2024年的宏观经济数据对比分析。
 
+## 🔍 如何让更多人看到这个项目？
+
+**1. 搜索引擎收录**
+Google、百度等搜索引擎会自动抓取GitHub Pages。搜索以下关键词可能找到本项目：
+- 中日美宏观经济
+- China USA Japan GDP growth
+- 宏观经济数据可视化
+- Plotly 交互图表
+
+**2. 社交媒体分享**
+- 微信、微博、知乎、豆瓣等平台分享链接
+- 发帖介绍你的项目
+
+**3. GitHub平台推广**
+- 在GitHub搜索 `mako-kawai/china-usa-japan-economy`
+- 给项目点star增加曝光
+
 ## 👤 作者
 
 **GitHub用户名**：mako-kawai
@@ -60,4 +77,4 @@
 
 ---
 
-*Created with R and Plotly | GitHub: https://github.com/mako-kawai/china-usa-japan-economy*
+*Created with R and Plotly | GitHub: https://github.com/mako-kawai*
