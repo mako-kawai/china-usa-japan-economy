@@ -2,6 +2,10 @@
 
 一个交互式仪表板，展示中国、美国、日本三国1960-2024年的宏观经济数据对比分析。
 
+## 🌐 在线访问
+
+**仪表板地址**：https://mako-kawai.github.io/china-usa-japan-economy/
+
 ## 📊 数据概览
 
 | 指标 | 数据来源 | 时间跨度 |
@@ -10,37 +14,22 @@
 | 通货膨胀率 | 世界银行 | 1960-2024 |
 | 失业率 | 世界银行 | 1991-2024 |
 
-## 🚀 快速查看
-
-直接在浏览器中打开 `china_usa_japan_economy.html` 文件即可查看交互式仪表板。
-
-## 🌐 在线访问
-
-本项目已部署至 GitHub Pages，可通过以下地址访问：
-
-**在线访问**：https://mako-kawai.github.io/china-usa-japan-economy/
-
-或者直接打开：https://mako-kawai.github.io/china-usa-japan-economy/index.html
-
-GitHub仓库：https://github.com/mako-kawai/china-usa-japan-economy
-
-## 📁 项目文件
-
-```
-├── china_usa_japan_economy.html  # 交互式仪表板（主文件）
-├── gdp_growth.csv               # GDP增长率数据
-├── inflation.csv                 # 通货膨胀率数据
-├── unemployment.csv              # 失业率数据
-├── generate_dashboard.R         # 生成脚本
-└── README.md                    # 项目说明
-```
-
 ## 🎨 功能特性
 
 - **交互式图表**：鼠标悬停查看详细数据
 - **三国家对比**：中国（红色）、美国（蓝色）、日本（橙色）
 - **数据分析结论**：基于数据的深度分析
 - **局限性说明**：图表的局限性和警示
+
+## 📁 项目文件
+
+| 文件 | 说明 |
+|------|------|
+| `index.html` | 交互式仪表板 |
+| `gdp_growth.csv` | GDP增长率数据 |
+| `inflation.csv` | 通货膨胀率数据 |
+| `unemployment.csv` | 失业率数据 |
+| `generate_dashboard.R` | 生成脚本 |
 
 ## 🔧 技术栈
 
@@ -63,4 +52,4 @@ GitHub仓库：https://github.com/mako-kawai/china-usa-japan-economy
 
 ---
 
-*Created with R and Plotly*
+*Created with R and Plotly | GitHub: https://github.com/mako-kawai/china-usa-japan-economy*
